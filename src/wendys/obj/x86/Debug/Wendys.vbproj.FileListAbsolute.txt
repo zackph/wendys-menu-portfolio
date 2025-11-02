@@ -1,0 +1,90 @@
+C:\Users\Zack\AppData\Local\Temporary Projects\Wendys\bin\Debug\Wendys.exe
+C:\Users\Zack\AppData\Local\Temporary Projects\Wendys\bin\Debug\Wendys.pdb
+C:\Users\Zack\AppData\Local\Temporary Projects\Wendys\bin\Debug\Wendys.xml
+C:\Users\Zack\AppData\Local\Temporary Projects\Wendys\obj\x86\Debug\Wendys.Form1.resources
+C:\Users\Zack\AppData\Local\Temporary Projects\Wendys\obj\x86\Debug\Wendys.Resources.resources
+C:\Users\Zack\AppData\Local\Temporary Projects\Wendys\obj\x86\Debug\Wendys.vbproj.GenerateResource.Cache
+C:\Users\Zack\AppData\Local\Temporary Projects\Wendys\obj\x86\Debug\Wendys.exe
+C:\Users\Zack\AppData\Local\Temporary Projects\Wendys\obj\x86\Debug\Wendys.xml
+C:\Users\Zack\AppData\Local\Temporary Projects\Wendys\obj\x86\Debug\Wendys.pdb
+C:\Users\Zack\documents\visual studio 2010\Projects\Wendys\Wendys\obj\x86\Debug\Wendys.exe
+C:\Users\Zack\documents\visual studio 2010\Projects\Wendys\Wendys\obj\x86\Debug\Wendys.xml
+C:\Users\Zack\documents\visual studio 2010\Projects\Wendys\Wendys\obj\x86\Debug\Wendys.pdb
+C:\Users\Zack\documents\visual studio 2010\Projects\Wendys\Wendys\bin\Debug\Wendys.exe
+C:\Users\Zack\documents\visual studio 2010\Projects\Wendys\Wendys\bin\Debug\Wendys.pdb
+C:\Users\Zack\documents\visual studio 2010\Projects\Wendys\Wendys\bin\Debug\Wendys.xml
+C:\Users\Zack\documents\visual studio 2010\Projects\Wendys\Wendys\obj\x86\Debug\Wendys.Resources.resources
+C:\Users\Zack\documents\visual studio 2010\Projects\Wendys\Wendys\obj\x86\Debug\Wendys.frmMenu.resources
+C:\Users\Zack\Documents\Visual Studio 2010\Projects\wendys\wendys\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zack\Documents\Visual Studio 2010\Projects\wendys\wendys\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zack\Documents\Visual Studio 2010\Projects\wendys\wendys\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zack\Desktop\wendys\obj\x86\Debug\Wendys.exe
+C:\Users\Zack\Desktop\wendys\obj\x86\Debug\Wendys.xml
+C:\Users\Zack\Desktop\wendys\obj\x86\Debug\Wendys.pdb
+C:\Users\Zack\Desktop\wendys\bin\Debug\Wendys.exe
+C:\Users\Zack\Desktop\wendys\bin\Debug\Wendys.pdb
+C:\Users\Zack\Desktop\wendys\bin\Debug\Wendys.xml
+C:\Users\Zack\Desktop\wendys\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zack\Desktop\wendys\obj\x86\Debug\Wendys.Resources.resources
+C:\Users\Zack\Desktop\wendys\obj\x86\Debug\Wendys.frmMenu.resources
+C:\Users\Zack\Desktop\wendys\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zack\Desktop\wendys\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\wendys\obj\x86\Debug\Wendys.exe
+J:\wendys\obj\x86\Debug\Wendys.xml
+J:\wendys\obj\x86\Debug\Wendys.pdb
+J:\wendys\bin\Debug\Wendys.exe
+J:\wendys\bin\Debug\Wendys.pdb
+J:\wendys\bin\Debug\Wendys.xml
+J:\wendys\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\wendys\obj\x86\Debug\Wendys.Resources.resources
+J:\wendys\obj\x86\Debug\Wendys.frmMenu.resources
+J:\wendys\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\wendys\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\wendys\obj\x86\Debug\Wendys.exe
+E:\wendys\obj\x86\Debug\Wendys.xml
+E:\wendys\obj\x86\Debug\Wendys.pdb
+E:\wendys\bin\Debug\Wendys.exe
+E:\wendys\bin\Debug\Wendys.pdb
+E:\wendys\bin\Debug\Wendys.xml
+E:\wendys\obj\x86\Debug\Wendys.Resources.resources
+E:\wendys\obj\x86\Debug\Wendys.frmMenu.resources
+E:\wendys\obj\x86\Debug\Wendys.vbproj.GenerateResource.Cache
+L:\wendys\obj\x86\Debug\Wendys.exe
+L:\wendys\obj\x86\Debug\Wendys.xml
+L:\wendys\obj\x86\Debug\Wendys.pdb
+L:\wendys\bin\Debug\Wendys.exe
+L:\wendys\bin\Debug\Wendys.pdb
+L:\wendys\bin\Debug\Wendys.xml
+L:\wendys\obj\x86\Debug\Wendys.Resources.resources
+L:\wendys\obj\x86\Debug\Wendys.frmMenu.resources
+L:\wendys\obj\x86\Debug\Wendys.vbproj.GenerateResource.Cache
+G:\wendys\obj\x86\Debug\Wendys.exe
+G:\wendys\obj\x86\Debug\Wendys.xml
+G:\wendys\obj\x86\Debug\Wendys.pdb
+G:\wendys\bin\Debug\Wendys.exe
+G:\wendys\bin\Debug\Wendys.pdb
+G:\wendys\bin\Debug\Wendys.xml
+G:\wendys\obj\x86\Debug\Wendys.Resources.resources
+G:\wendys\obj\x86\Debug\Wendys.frmMenu.resources
+G:\wendys\obj\x86\Debug\Wendys.vbproj.GenerateResource.Cache
+F:\wendys\obj\x86\Debug\Wendys.exe
+F:\wendys\obj\x86\Debug\Wendys.xml
+F:\wendys\obj\x86\Debug\Wendys.pdb
+F:\wendys\bin\Debug\Wendys.exe
+F:\wendys\obj\x86\Debug\Wendys.Resources.resources
+F:\wendys\obj\x86\Debug\Wendys.frmMenu.resources
+F:\wendys\obj\x86\Debug\Wendys.vbproj.GenerateResource.Cache
+F:\wendys\bin\Debug\Wendys.pdb
+F:\wendys\bin\Debug\Wendys.xml
+C:\Users\zphar\Downloads\wendys-menu-protfolio\src\wendys\bin\Debug\Wendys.exe.config
+C:\Users\zphar\Downloads\wendys-menu-protfolio\src\wendys\bin\Debug\Wendys.exe
+C:\Users\zphar\Downloads\wendys-menu-protfolio\src\wendys\bin\Debug\Wendys.pdb
+C:\Users\zphar\Downloads\wendys-menu-protfolio\src\wendys\bin\Debug\Wendys.xml
+C:\Users\zphar\Downloads\wendys-menu-protfolio\src\wendys\obj\x86\Debug\Wendys.vbproj.AssemblyReference.cache
+C:\Users\zphar\Downloads\wendys-menu-protfolio\src\wendys\obj\x86\Debug\Wendys.Resources.resources
+C:\Users\zphar\Downloads\wendys-menu-protfolio\src\wendys\obj\x86\Debug\Wendys.frmMenu.resources
+C:\Users\zphar\Downloads\wendys-menu-protfolio\src\wendys\obj\x86\Debug\Wendys.vbproj.GenerateResource.cache
+C:\Users\zphar\Downloads\wendys-menu-protfolio\src\wendys\obj\x86\Debug\Wendys.vbproj.CoreCompileInputs.cache
+C:\Users\zphar\Downloads\wendys-menu-protfolio\src\wendys\obj\x86\Debug\Wendys.exe
+C:\Users\zphar\Downloads\wendys-menu-protfolio\src\wendys\obj\x86\Debug\Wendys.xml
+C:\Users\zphar\Downloads\wendys-menu-protfolio\src\wendys\obj\x86\Debug\Wendys.pdb
