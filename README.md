@@ -1,3 +1,18 @@
+# 👋🏾 Hi, I'm Zacharius Harris  
+Aspiring IT professional & entry-level programmer building real-world projects with Avalonia UI and Visual Basic.
+
+---
+
+## 🧠 My Coding Philosophy: Human Creativity + AI Precision
+
+I’m an entry-level programmer who combines hands-on problem-solving with AI-assisted development. Using ChatGPT as a productivity tool, I accelerate routine tasks like boilerplate setup, refactoring, and testing — while maintaining full control over debugging, architecture, and project design. 
+
+Each project I build is a collaboration between critical human reasoning and machine precision. I treat ChatGPT as a co-pilot, not a crutch — feeding it real-world results, error logs, and context while steering the creative and technical direction myself. 
+
+This workflow allows me to move quickly, learn continuously, and turn challenges into teachable moments that sharpen both my coding and analytical skills. My current focus areas include **C#**, **Avalonia UI**, and **cross-platform app development**.
+
+---
+
 # 🍔 Wendy's Menu – Visual Basic (VB.NET) Portfolio Project
 
 ### 👨‍💻 Author: Zacharius Harris  
